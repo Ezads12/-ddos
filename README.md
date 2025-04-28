@@ -1,3 +1,4 @@
+PLSSS LOOK VIDEO FIRST HOW U GONNA USE IT https://www.kapwing.com/videos/680faeb76f954b3020cc089d
 UDP Load Tester (Python)
 This is a UDP load testing tool built with Python. It allows you to simulate network load by sending UDP packets to a target IP and port, helping you test your server's performance and capacity under stress.
 
