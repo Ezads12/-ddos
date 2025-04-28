@@ -45,8 +45,6 @@ Network Slowdown: Running the load test will likely cause network slowdown. Be c
 
 TCP/UDP Flooding Risk: Make sure the target server and network can handle the generated load to avoid causing unintentional service outages.
 
-License:
-This project is licensed under the MIT License.
 
 Developer Notes:
 This script is a basic implementation of a UDP load tester. For more complex load tests and detailed analysis, consider using other tools like Apache JMeter, Locust, or similar solutions. Always exercise caution when performing load testing to avoid network disruptions or legal issues.
