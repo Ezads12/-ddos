@@ -15,7 +15,7 @@ Test Duration: Set the duration of the test in seconds.
 Packet Delay: Add a delay between each packet to reduce the chance of overwhelming the network buffer.
 
 Installation on Windows:
-Download the Executable: Download the compiled .exe file from the releases section of this repository.
+Download the Executable: Download the compiled .py file from the releases section of this repository.
 
 Run the Executable:
 
